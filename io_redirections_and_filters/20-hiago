@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Composicion | tr -d Cc
+tr -d Cc
