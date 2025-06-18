@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Composicion | tr 'c' 'C'
+echo Composicion | tr -d Cc
